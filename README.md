@@ -11,6 +11,6 @@ We combined all data on the item_id in order to combine quantiatitive and catigo
 
 The second step is pre-processing.
 
-Third step, slpitting of data
+Third step, slpitting of data.
 
 Fourth and final step, Model training.
